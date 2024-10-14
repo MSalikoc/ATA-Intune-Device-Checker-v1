@@ -3,8 +3,11 @@
 Prerequisite
 
 Düzenlemek için Python uygulamasına ihtiyaç duymaktasınız.
+.
 Kod Python ile yazılmıştır, bu yüzden sisteminizde Python 3.x sürümü kurulu olmalıdır.
+.
 Python'un kurulu olup olmadığını şu komut ile terminal veya komut satırında kontrol edebilirsiniz:
+.
 'python --version'
 
 
