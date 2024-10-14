@@ -1,4 +1,6 @@
 ## ATA-Intune-Device-Checker
+# Medium Blog 
+https://medium.com/@m365alikoc/ata-intune-device-checker-tool-c9ee8ea6b0f9
 
 # Prerequisite
 
