@@ -34,3 +34,7 @@ Uygulama çalışırken kullanıcıdan kimlik doğrulaması yapması istenir. Uy
 - Uygulamayı çalıştırın (AtaDevicechecker.exe)
 - Daha sonra Tenant ID ve Client ID bilgilerinizi girerek Authorization işlemlerini başlatın
 - Authorization sonrası sorgulamak istediğiniz cihaz ismi veya kullanıcı ismini girerek detaylara erişebilirsiniz.
+
+## UI 
+
+https://www.youtube.com/watch?v=fclQSSk4Rvg&t
